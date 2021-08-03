@@ -1,6 +1,8 @@
-## _PacMan Exercise_ 
-
+## _PacMan Exercise_  
 PacMan Exercise was basically an exercise to get the PacMan to move back and forth on the webpage screen with its mouth opening and closing once you click the head. Once it hits the edge of the screen, its function is to reverse to the other side of the screen. 
+
+![Image of PacMan](https://lh3.googleusercontent.com/proxy/bYLLUOq7FnBlymOWGGgP0Ylt6eFR9KApRxPppWEm1P2CtpG2m74UB1Be-OyvIs-ZNRf5lp5lrOgikyPL-DIYcR628g)
+
 
 # Description: 
 
